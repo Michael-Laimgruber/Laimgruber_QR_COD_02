@@ -5,11 +5,19 @@
 Schreiben Sie ein Programm, mit dem Sie Punktezahlen eingeben können. Das Programm sollte Ihnen dann eine Bewertung nach dem Schulnotensystem ausgeben.
 Es soll zu Beginn eine Punktzahl eingegeben werden. Die maximal zu erreichenden Punkte sind 400 
 Es gilt folgende Benotungsskala:
+
+
 Sehr gut: 	350 - 400 
+
 Gut: 	300 - 349 
+
 Befriedigend: 	250 - 299 
+
 Genügend: 	200 - 249 
+
 Durchgefallen: 	0 - 199 
+
+
 Geben Sie je nach Punkten eine passende Meldung aus.
 Achten Sie darauf, dass keine Punktzahl kleiner als 0 und größer als 400 eingegeben werden kann.
 
