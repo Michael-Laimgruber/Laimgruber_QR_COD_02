@@ -1,0 +1,4 @@
+﻿  Laimgruber_QR_COD_11.c
+C:\Users\Bertrand\source\repos\Laimgruber_QR_COD_02\Laimgruber_QR_COD_9\Laimgruber_QR_COD_11.c(6,9): warning C4101: 'i_1': unreferenced local variable
+C:\Users\Bertrand\source\repos\Laimgruber_QR_COD_02\Laimgruber_QR_COD_9\Laimgruber_QR_COD_11.c(7,9): warning C4101: 'i_2': unreferenced local variable
+  Laimgruber_QR_COD_9.vcxproj -> C:\Users\Bertrand\source\repos\Laimgruber_QR_COD_02\x64\Debug\Laimgruber_QR_COD_11.exe
